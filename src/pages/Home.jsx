@@ -6,7 +6,7 @@ const Home = () => {
     <>
       <div className="px-2">
         <img
-          src={`./images/matruchayalogo.jpg`}
+          src="./images/matruchayalogo.jpg"
           width={"100%"}
           height={"600px"}
         />
