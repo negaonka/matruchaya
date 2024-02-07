@@ -18,7 +18,7 @@ function ProductList() {
     },
     {
       name: "Laddoo",
-      image: "laddoo.jpg",
+      image: "ladoo.jpg",
       price: 500,
       quantity: 20,
     },
