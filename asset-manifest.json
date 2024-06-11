@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/matruchaya/static/css/main.f43ee7e4.css",
-    "main.js": "/matruchaya/static/js/main.1c4a442d.js",
+    "main.js": "/matruchaya/static/js/main.e102e5cc.js",
     "static/js/592.4b7739db.chunk.js": "/matruchaya/static/js/592.4b7739db.chunk.js",
     "index.html": "/matruchaya/index.html",
     "main.f43ee7e4.css.map": "/matruchaya/static/css/main.f43ee7e4.css.map",
-    "main.1c4a442d.js.map": "/matruchaya/static/js/main.1c4a442d.js.map",
+    "main.e102e5cc.js.map": "/matruchaya/static/js/main.e102e5cc.js.map",
     "592.4b7739db.chunk.js.map": "/matruchaya/static/js/592.4b7739db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f43ee7e4.css",
-    "static/js/main.1c4a442d.js"
+    "static/js/main.e102e5cc.js"
   ]
 }
