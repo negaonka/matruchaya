@@ -1,5 +1,7 @@
 import React from "react";
 import ProductList from "../components/ProductList";
+import About from "../components/AboutContent";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
@@ -13,6 +15,7 @@ const Home = () => {
       </div>
       <div className="container">
         <ProductList />
+        <About />
       </div>
     </>
   );
